@@ -1,0 +1,44 @@
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.domain\bin\Debug\MyFinance.domain.dll.config
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.domain\bin\Debug\MyFinance.domain.dll
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.domain\bin\Debug\MyFinance.domain.pdb
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.domain\bin\Debug\EntityFramework.dll
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.domain\bin\Debug\EntityFramework.xml
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.domain\obj\Debug\MyFinance.domain.csprojAssemblyReference.cache
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.domain\obj\Debug\MyFinance.domain.csproj.CoreCompileInputs.cache
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.domain\obj\Debug\MyFinance.domain.csproj.CopyComplete
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.domain\obj\Debug\MyFinance.domain.dll
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.domain\obj\Debug\MyFinance.domain.pdb
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.domain\bin\Debug\MyFinance.domain.dll.config
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.domain\bin\Debug\MyFinance.domain.dll
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.domain\bin\Debug\MyFinance.domain.pdb
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.domain\bin\Debug\EntityFramework.dll
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.domain\bin\Debug\EntityFramework.xml
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.domain\obj\Debug\MyFinance.domain.csprojAssemblyReference.cache
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.domain\obj\Debug\MyFinance.domain.csproj.CoreCompileInputs.cache
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.domain\obj\Debug\MyFinance.domain.csproj.CopyComplete
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.domain\obj\Debug\MyFinance.domain.dll
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.domain\obj\Debug\MyFinance.domain.pdb
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.domain\bin\Debug\MyFinance.domain.dll.config
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.domain\bin\Debug\MyFinance.domain.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.domain\bin\Debug\MyFinance.domain.pdb
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.domain\bin\Debug\EntityFramework.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.domain\bin\Debug\EntityFramework.xml
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.domain\obj\Debug\MyFinance.domain.csprojResolveAssemblyReference.cache
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.domain\obj\Debug\MyFinance.domain.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.domain\obj\Debug\MyFinance.domain.pdb
+C:\Users\Moez\Desktop\MyFinance\MyFinance.domain\bin\Debug\MyFinance.domain.dll.config
+C:\Users\Moez\Desktop\MyFinance\MyFinance.domain\bin\Debug\MyFinance.domain.dll
+C:\Users\Moez\Desktop\MyFinance\MyFinance.domain\bin\Debug\MyFinance.domain.pdb
+C:\Users\Moez\Desktop\MyFinance\MyFinance.domain\bin\Debug\EntityFramework.dll
+C:\Users\Moez\Desktop\MyFinance\MyFinance.domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Moez\Desktop\MyFinance\MyFinance.domain\bin\Debug\EntityFramework.xml
+C:\Users\Moez\Desktop\MyFinance\MyFinance.domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Moez\Desktop\MyFinance\MyFinance.domain\obj\Debug\MyFinance.domain.dll
+C:\Users\Moez\Desktop\MyFinance\MyFinance.domain\obj\Debug\MyFinance.domain.pdb
+C:\Users\Moez\Desktop\MyFinance\MyFinance.domain\obj\Debug\MyFinance.domain.csprojResolveAssemblyReference.cache

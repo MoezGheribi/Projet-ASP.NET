@@ -1,0 +1,61 @@
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.console.exe.config
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.console.exe
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.console.pdb
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\bin\Debug\EntityFramework.dll
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.data.dll
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.domain.dll
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.service.dll
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.data.pdb
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.data.dll.config
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.domain.pdb
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.domain.dll.config
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.service.pdb
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.service.dll.config
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\bin\Debug\EntityFramework.xml
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\obj\Debug\MyFinance.console.csprojAssemblyReference.cache
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\obj\Debug\MyFinance.console.csproj.CoreCompileInputs.cache
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\obj\Debug\MyFinance.console.csproj.CopyComplete
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\obj\Debug\MyFinance.console.exe
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.console\obj\Debug\MyFinance.console.pdb
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.console.exe.config
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.console.exe
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.console.pdb
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\bin\Debug\EntityFramework.dll
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.data.dll
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.domain.dll
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.service.dll
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.data.pdb
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.data.dll.config
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.domain.pdb
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.domain.dll.config
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.service.pdb
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\bin\Debug\MyFinance.service.dll.config
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\bin\Debug\EntityFramework.xml
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\obj\Debug\MyFinance.console.csprojAssemblyReference.cache
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\obj\Debug\MyFinance.console.csproj.CoreCompileInputs.cache
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\obj\Debug\MyFinance.console.csproj.CopyComplete
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\obj\Debug\MyFinance.console.exe
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.console\obj\Debug\MyFinance.console.pdb
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\bin\Debug\MyFinance.console.exe.config
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\bin\Debug\MyFinance.console.exe
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\bin\Debug\MyFinance.console.pdb
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\bin\Debug\EntityFramework.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\bin\Debug\MyFinance.data.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\bin\Debug\MyFinance.domain.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\bin\Debug\MyFinance.service.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\bin\Debug\Service.Pattern.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\bin\Debug\MyFinance.data.pdb
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\bin\Debug\MyFinance.domain.pdb
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\bin\Debug\MyFinance.service.pdb
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\bin\Debug\Service.Pattern.pdb
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\bin\Debug\EntityFramework.xml
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\obj\Debug\MyFinance.console.csprojResolveAssemblyReference.cache
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\obj\Debug\MyFinance.console.exe
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.console\obj\Debug\MyFinance.console.pdb
+C:\Users\Moez\Desktop\MyFinance\MyFinance.console\bin\Debug\MyFinance.console.exe.config

@@ -1,0 +1,79 @@
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\bin\Debug\MyFinance.data.dll.config
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\bin\Debug\MyFinance.data.dll
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\bin\Debug\MyFinance.data.pdb
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\bin\Debug\EntityFramework.dll
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\bin\Debug\MyFinance.domain.dll
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\bin\Debug\MyFinance.domain.pdb
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\bin\Debug\MyFinance.domain.dll.config
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\bin\Debug\EntityFramework.xml
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.csprojAssemblyReference.cache
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.csproj.CoreCompileInputs.cache
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.csproj.CopyComplete
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.dll
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.pdb
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.InitialCreate.resources
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.csproj.GenerateResource.cache
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.ImageMigration.resources
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.Image2Migration.resources
+C:\Users\rayen doss\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.address.resources
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\bin\Debug\MyFinance.data.dll.config
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\bin\Debug\MyFinance.data.dll
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\bin\Debug\MyFinance.data.pdb
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\bin\Debug\EntityFramework.dll
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\bin\Debug\MyFinance.domain.dll
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\bin\Debug\MyFinance.domain.pdb
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\bin\Debug\MyFinance.domain.dll.config
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\bin\Debug\EntityFramework.xml
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.csprojAssemblyReference.cache
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.csproj.CoreCompileInputs.cache
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.csproj.CopyComplete
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.dll
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.pdb
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.m1.resources
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.csproj.GenerateResource.cache
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.m2.resources
+C:\Users\Zied Jlassi\source\repos\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.nullable.resources
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\bin\Debug\MyFinance.data.dll.config
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\bin\Debug\MyFinance.data.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\bin\Debug\MyFinance.data.pdb
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\bin\Debug\EntityFramework.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\bin\Debug\MyFinance.domain.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\bin\Debug\MyFinance.domain.pdb
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\bin\Debug\EntityFramework.xml
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.csprojResolveAssemblyReference.cache
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.test.resources
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.configMigration.resources
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.prodcuConf.resources
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.adresseconf.resources
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.testxc.resources
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.tss.resources
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.csproj.GenerateResource.Cache
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.pdb
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\bin\Debug\MyFinance.data.dll.config
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\bin\Debug\MyFinance.data.dll
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\bin\Debug\MyFinance.data.pdb
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\bin\Debug\EntityFramework.dll
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\bin\Debug\MyFinance.domain.dll
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\bin\Debug\MyFinance.domain.pdb
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\bin\Debug\EntityFramework.xml
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.csprojResolveAssemblyReference.cache
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.test.resources
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.configMigration.resources
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.prodcuConf.resources
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.adresseconf.resources
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.testxc.resources
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.tss.resources
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations.mmm.resources
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.csproj.GenerateResource.Cache
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.dll
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.pdb
+C:\Users\Moez\Desktop\MyFinance\MyFinance.data\obj\Debug\MyFinance.data.Migrations._enum.resources

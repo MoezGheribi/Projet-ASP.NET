@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A0EC2EF6-455E-4312-A8EE-7F0B243813FB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MyFinance.data</RootNamespace>
+    <AssemblyName>MyFinance.data</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Configurations\AddressConfiguration.cs" />
+    <Compile Include="Configurations\CategoryConfiguration.cs" />
+    <Compile Include="Configurations\FactureConfiguration.cs" />
+    <Compile Include="Configurations\ProductConfiguration.cs" />
+    <Compile Include="Custom Conventions\DateTime2Convention.cs" />
+    <Compile Include="Infrastructure\DatabaseFactory.cs" />
+    <Compile Include="Infrastructure\Disposable.cs" />
+    <Compile Include="Infrastructure\IDatabaseFactory .cs" />
+    <Compile Include="Infrastructure\IRepositoryBase.cs" />
+    <Compile Include="Infrastructure\IUnitOfWork.cs" />
+    <Compile Include="Infrastructure\RepositoryBase.cs" />
+    <Compile Include="Infrastructure\UnitOfWork.cs" />
+    <Compile Include="Migrations\201910040853327_test.cs" />
+    <Compile Include="Migrations\201910040853327_test.Designer.cs">
+      <DependentUpon>201910040853327_test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910040918052_configMigration.cs" />
+    <Compile Include="Migrations\201910040918052_configMigration.Designer.cs">
+      <DependentUpon>201910040918052_configMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910040927115_prodcuConf.cs" />
+    <Compile Include="Migrations\201910040927115_prodcuConf.Designer.cs">
+      <DependentUpon>201910040927115_prodcuConf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910041005324_adresseconf.cs" />
+    <Compile Include="Migrations\201910041005324_adresseconf.Designer.cs">
+      <DependentUpon>201910041005324_adresseconf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910041058568_testxc.cs" />
+    <Compile Include="Migrations\201910041058568_testxc.Designer.cs">
+      <DependentUpon>201910041058568_testxc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910041105323_tss.cs" />
+    <Compile Include="Migrations\201910041105323_tss.Designer.cs">
+      <DependentUpon>201910041105323_tss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910171401044_mmm.cs" />
+    <Compile Include="Migrations\201910171401044_mmm.Designer.cs">
+      <DependentUpon>201910171401044_mmm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201910251106261_enum.cs" />
+    <Compile Include="Migrations\201910251106261_enum.Designer.cs">
+      <DependentUpon>201910251106261_enum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="MyFinanceContext.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyFinance.domain\MyFinance.domain.csproj">
+      <Project>{b3e2e052-ff84-4d2d-8e52-df4341648075}</Project>
+      <Name>MyFinance.domain</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201910040853327_test.resx">
+      <DependentUpon>201910040853327_test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910040918052_configMigration.resx">
+      <DependentUpon>201910040918052_configMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910040927115_prodcuConf.resx">
+      <DependentUpon>201910040927115_prodcuConf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910041005324_adresseconf.resx">
+      <DependentUpon>201910041005324_adresseconf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910041058568_testxc.resx">
+      <DependentUpon>201910041058568_testxc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910041105323_tss.resx">
+      <DependentUpon>201910041105323_tss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910171401044_mmm.resx">
+      <DependentUpon>201910171401044_mmm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910251106261_enum.resx">
+      <DependentUpon>201910251106261_enum.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,22 @@
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\Service.Pattern\bin\Debug\Service.Pattern.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\Service.Pattern\bin\Debug\Service.Pattern.pdb
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\Service.Pattern\bin\Debug\MyFinance.data.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\Service.Pattern\bin\Debug\MyFinance.domain.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\Service.Pattern\bin\Debug\EntityFramework.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\Service.Pattern\bin\Debug\MyFinance.data.pdb
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\Service.Pattern\bin\Debug\MyFinance.domain.pdb
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\Service.Pattern\bin\Debug\EntityFramework.xml
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.dll
+C:\Users\anasc\documents\visual studio 2015\Projects\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.pdb
+C:\Users\Moez\Desktop\MyFinance\Service.Pattern\bin\Debug\Service.Pattern.dll
+C:\Users\Moez\Desktop\MyFinance\Service.Pattern\bin\Debug\Service.Pattern.pdb
+C:\Users\Moez\Desktop\MyFinance\Service.Pattern\bin\Debug\MyFinance.data.dll
+C:\Users\Moez\Desktop\MyFinance\Service.Pattern\bin\Debug\MyFinance.domain.dll
+C:\Users\Moez\Desktop\MyFinance\Service.Pattern\bin\Debug\EntityFramework.dll
+C:\Users\Moez\Desktop\MyFinance\Service.Pattern\bin\Debug\MyFinance.data.pdb
+C:\Users\Moez\Desktop\MyFinance\Service.Pattern\bin\Debug\MyFinance.domain.pdb
+C:\Users\Moez\Desktop\MyFinance\Service.Pattern\bin\Debug\EntityFramework.xml
+C:\Users\Moez\Desktop\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Moez\Desktop\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.dll
+C:\Users\Moez\Desktop\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.pdb
